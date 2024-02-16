@@ -4,7 +4,6 @@ import { GifsService } from '../../services/gifs.service';
 @Component({
   selector: 'gifs-searh-box',
   templateUrl: './searh-box.component.html',
-  styleUrl: './searh-box.component.css'
 })
 export class SearhBoxComponent {
 
